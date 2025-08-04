@@ -1,71 +1,71 @@
 # DriveEase - HTML and CSS Assessment
 
-A modern, responsive three-page car rental website showcasing HTML and CSS skills for the SBA 307 assessment.
+A clean, responsive car rental website built for the SBA 307 assessment.
 
 ## Project Overview
 
-DriveEase is a premium car rental company website that demonstrates proficiency in HTML structure, CSS styling, and responsive design principles. The website features a clean, modern design with a purple-blue gradient color scheme and smooth animations.
+DriveEase is a car rental website that demonstrates HTML structure and CSS styling skills. The design uses a calm, professional color palette with smooth animations and responsive layouts.
 
 ## Features
 
 ### HTML Requirements Met:
-- ✅ **Three pages**: Home (index.html), About (about.html), Contact (contact.html)
+- ✅ **Three pages**: Home, About, Contact
 - ✅ **Consistent grid system** across all pages
 - ✅ **10+ HTML tags**: html, head, body, nav, section, article, form, table, img, h1-h4, p, ul, li, a, button, input, select, textarea, label, footer
-- ✅ **One table**: Rental rates and pricing table
-- ✅ **Two forms**: Quick booking form and contact form
-- ✅ **Dropdown menus**: Vehicle type selection and inquiry type dropdowns
-- ✅ **Content types**: Text, images (from Pexels), and structured content
+- ✅ **One table**: Rental rates and pricing
+- ✅ **Two forms**: Booking form and contact form
+- ✅ **Dropdown menus**: Vehicle type and inquiry type selections
+- ✅ **Content types**: Text, images, and structured content
 
 ### CSS Requirements Met:
-- ✅ **Three styling methods**: External (styles.css), Internal (in index.html), and Inline styles
-- ✅ **Five CSS selectors**: Element selectors, class selectors, ID selectors, pseudo-class selectors, and attribute selectors
-- ✅ **Complementary colors**: Purple-blue gradient theme with accent colors
-- ✅ **Flexbox and Grid**: Extensive use of CSS Grid and Flexbox for layouts
-- ✅ **Two CSS animations**: fadeInUp and pulse animations
+- ✅ **Three styling methods**: External, internal, and inline styles
+- ✅ **Five CSS selectors**: Element, class, ID, pseudo-class, and attribute selectors
+- ✅ **Calm color palette**: Soft blues, greens, and neutral tones
+- ✅ **Flexbox and Grid**: Modern layout techniques
+- ✅ **Two CSS animations**: fadeInUp and pulse effects
 
 ## Pages
 
 ### 1. Home Page (index.html)
 - Hero section with animated content
-- Premium fleet showcase
+- Vehicle showcase
 - Quick booking form
 - Rental rates table
-- Responsive navigation
+- Navigation menu
 
 ### 2. About Page (about.html)
-- Company mission statement
-- Team member profiles
-- Company statistics
+- Company information
+- Team profiles
+- Statistics
 - Contact form
-- Company values section
+- Company values
 
 ### 3. Contact Page (contact.html)
-- Contact information cards
-- Comprehensive contact form
+- Contact information
+- Contact form
 - FAQ section
 - Social media links
 
 ## Technical Implementation
 
 ### Color Palette
-- Primary: #667eea (Blue)
-- Secondary: #764ba2 (Purple)
-- Accent: #f093fb (Pink)
-- Text: #2d3748 (Dark Gray)
-- Background: #f7fafc (Light Gray)
+- Primary: #4a90e2 (Soft Blue)
+- Secondary: #7ed321 (Calm Green)
+- Accent: #f5a623 (Warm Orange)
+- Text: #2c3e50 (Dark Gray)
+- Background: #f8f9fa (Light Gray)
 
 ### CSS Features
-- CSS Custom Properties (variables)
+- CSS variables for consistent theming
 - Flexbox and CSS Grid layouts
 - Smooth transitions and hover effects
 - Responsive design with media queries
-- Modern box-shadow and border-radius
+- Modern shadows and border radius
 - Gradient backgrounds
 
 ### Animations
-1. **fadeInUp**: Hero content animation
-2. **pulse**: Team member image hover effect
+1. **fadeInUp**: Content entrance animation
+2. **pulse**: Interactive hover effects
 
 ## File Structure
 ```
@@ -109,7 +109,7 @@ HTML-and-CSS/
 
 ## Design Philosophy
 
-The website follows modern web design principles with:
+The website follows modern web design principles:
 - Clean, minimalist design
 - Consistent visual hierarchy
 - Accessible color contrast
@@ -119,7 +119,7 @@ The website follows modern web design principles with:
 ## Car Rental Features
 
 ### Vehicle Types
-- Luxury Sedans
+- Sedans
 - SUVs
 - Sports Cars
 - Economy Vehicles
@@ -127,10 +127,10 @@ The website follows modern web design principles with:
 
 ### Services
 - Airport pickup and drop-off
-- 24/7 customer support
+- Customer support
 - Flexible rental periods
-- Comprehensive insurance options
-- Online booking system
+- Insurance options
+- Online booking
 
 Created for SBA 307: HTML and CSS Assessment
 Version 1.0, 2024
