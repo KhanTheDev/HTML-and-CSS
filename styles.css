@@ -1,15 +1,15 @@
 /* External CSS - Main Stylesheet */
-/* Color Palette: Purple-Blue gradient theme */
+/* Color Palette: Calm and professional theme */
 :root {
-    --primary-color: #667eea;
-    --secondary-color: #764ba2;
-    --accent-color: #f093fb;
-    --text-dark: #2d3748;
-    --text-light: #718096;
-    --background-light: #f7fafc;
+    --primary-color: #4a90e2;
+    --secondary-color: #7ed321;
+    --accent-color: #f5a623;
+    --text-dark: #2c3e50;
+    --text-light: #7f8c8d;
+    --background-light: #f8f9fa;
     --white: #ffffff;
-    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    --border-radius: 8px;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --border-radius: 6px;
 }
 
 /* Universal Reset */
@@ -217,7 +217,7 @@ body {
 .form-group textarea {
     width: 100%;
     padding: 12px;
-    border: 2px solid #e2e8f0;
+    border: 2px solid #e9ecef;
     border-radius: var(--border-radius);
     font-size: 1rem;
     transition: border-color 0.3s ease;
@@ -271,7 +271,7 @@ body {
 .stats-table td {
     padding: 15px;
     text-align: left;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid #e9ecef;
 }
 
 .stats-table th {
@@ -281,7 +281,7 @@ body {
 }
 
 .stats-table tr:hover {
-    background-color: #f7fafc;
+    background-color: var(--background-light);
 }
 
 /* About Page Styles */
@@ -499,7 +499,7 @@ body {
 
 /* Footer */
 .footer {
-    background: linear-gradient(135deg, var(--text-dark), #1a202c);
+    background: linear-gradient(135deg, var(--text-dark), #34495e);
     color: var(--white);
     padding: 50px 0 20px;
     margin-top: 100px;
