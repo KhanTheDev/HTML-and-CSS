@@ -364,6 +364,20 @@ body {
     margin-bottom: 20px;
 }
 
+.member-image-placeholder {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    margin: 0 auto 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
 .member-role {
     color: var(--primary-color);
     font-weight: 600;
@@ -640,7 +654,7 @@ body {
     transition: transform 0.3s ease;
 }
 
-.team-member:hover .member-image {
+.team-member:hover .member-image-placeholder {
     animation: pulse 1s ease-in-out;
 }
 
